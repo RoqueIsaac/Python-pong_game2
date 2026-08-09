@@ -12,8 +12,8 @@ The player who reaches 5 points, wins.
 
 | Player 1 | Function  |  Player 2 | Function  |
 |----------|------------|----------|------------|
-|**w** | Move up |           **Up arrow** | Move up|
-|**s** | Move down |       **Down arrow** | Move down|
+|w | Move up |     |      ↑ Up arrow  | Move up|
+|s | Move down |    |     ↓ Down arrow | Move down|
 
 ## Dependencies
 
