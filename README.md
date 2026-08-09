@@ -1,4 +1,7 @@
 # Pong Game
+
+![Tux](/C:\Users\'Roque Isaac'\Pictures\tux-1080.webp)
+
 ## Introduction
 
 This project is the clasic pong game, 2 players 1 ball; created with turtle library.
