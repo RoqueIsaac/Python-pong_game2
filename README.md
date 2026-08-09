@@ -1,6 +1,6 @@
 # Pong Game
 
-![Tux](/assets/images/tux-1080)
+![Tux](/assets/images/tux-1080.webp)
 
 ## Introduction
 
