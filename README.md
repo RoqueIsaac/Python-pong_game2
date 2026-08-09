@@ -1,4 +1,4 @@
-# Pong Game    <img src="/pong2.png" width="80" height="80" /> 
+# Pong Game          <img src="/pong2.png" width="80" height="80" /> 
 
 
 ## Introduction
