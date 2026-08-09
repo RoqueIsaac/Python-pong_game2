@@ -1,6 +1,6 @@
 # Pong Game
 
-<img src="/tux-1080.webp" width="30" height="50" />
+<img src="/png.png" width="50" height="50" />
 
 
 ## Introduction
