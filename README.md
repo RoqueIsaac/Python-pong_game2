@@ -5,7 +5,7 @@ This project is the clasic pong game, 2 players 1 ball; created with turtle libr
 
 The player who reaches 5 points, wins.
 
-* main2.py an improvement on paddle movement was implemented.
+> main2.py an improvement on paddle movement was implemented.
 
 
 ## Controls
