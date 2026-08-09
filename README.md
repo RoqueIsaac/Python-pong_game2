@@ -1,6 +1,6 @@
 # Pong Game
 
-![Tux](C:\Users\Roque Isaac\Pictures\tux-1080.webp)
+![Tux](/assets/images/tux-1080)
 
 ## Introduction
 
