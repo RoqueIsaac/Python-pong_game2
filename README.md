@@ -1,6 +1,7 @@
 # Pong Game
 ## Introduction
-This project is the clasic pong game, 2 players 1 ball, created with turtle library
+This project is the clasic pong game, 2 players 1 ball; created with turtle library
+The player who reaches 5 points, wins
 
 
 ## Controls
@@ -9,6 +10,7 @@ This project is the clasic pong game, 2 players 1 ball, created with turtle libr
 |----------|------------|
 |w | Move up|
 |s | Move down|
+
 | Player 2 | Function  |
 |----------|------------|
 |Up arrow | Move up|
@@ -20,7 +22,7 @@ This project is the clasic pong game, 2 players 1 ball, created with turtle libr
 |File |	Description|
 |-----|------------|
 |ball.py | Generates ball object |
-|paddle.py  | Creates paddles for each player|
-|scoreboard.py | Crontrols the scord| 
-|board.py | Draws the board limits|
+|paddle.py  | Creates paddles for each player |
+|scoreboard.py | Crontrols the score | 
+|board.py | Draws the board limits |
 
