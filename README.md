@@ -1,6 +1,6 @@
 # Pong Game
 ## Introduction
-This project is the clasic pong game, 2 players 1 ball; created with turtle library
+This project is the clasic pong game, 2 players 1 ball; created with turtle library.
 The player who reaches 5 points, wins
 
 
