@@ -1,7 +1,7 @@
 # Pong Game
 
 <img src="/tux-1080.webp" width="30" height="50" />
-![Tux](./tux-1080.webp)
+
 
 ## Introduction
 
