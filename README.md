@@ -1,6 +1,6 @@
 # Pong Game
 
-<img src="/pong.png" width="50" height="50" />
+<img src="/pong2.png" width="60" height="60" />
 
 
 ## Introduction
